@@ -1,4 +1,4 @@
-Red-black Tree
+Red-black Tree (on Java)
 
 Based on
 http://www.java-tips.org/java-se-tips/java.lang/red-black-tree-implementation-in-java.html
