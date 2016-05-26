@@ -2,7 +2,7 @@ Red-black Tree (on Java)
 
 Based on
 http://www.java-tips.org/java-se-tips/java.lang/red-black-tree-implementation-in-java.html
-and project n0nick on gothub.com
+and project n0nick on github.com
  
 A red-black tree is a type of self-balancing binary search tree, a data structure used in computer science.
 The self-balancing is provided by painting each node with one of two colors (these are typically called 'red' and 'black', hence the name of the trees) in such a way that the resulting painted tree satisfies certain properties that don't allow it to become significantly unbalanced. When the tree is modified, the new tree is subsequently rearranged and repainted to restore the coloring properties. The properties are designed in such a way that this rearranging and recoloring can be performed efficiently.
