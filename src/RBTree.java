@@ -663,7 +663,6 @@ public class RBTree {
         }
     }
 
-
     public static void main(String[] args) {
         RBTree tree = new RBTree();
         tree.insert(1);
@@ -673,5 +672,4 @@ public class RBTree {
         tree.delete(2);
         System.out.print(tree);
     }
-
 }
