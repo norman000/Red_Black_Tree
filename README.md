@@ -39,5 +39,4 @@ If you want more look comments in the code.
 
 There is a different view of trees.
 toString (method for string representation of the tree)
-See more in "The Art of Computer Programming" Donald Knuth
-
+See more in "The Art of Computer Programming" Donald Knuth.
